@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "rocket-democracy"
+  site-url: "https://robbievz.github.io/rocket-democracy"
+  description: "Democratization of rocket landing control"
+  repo-branch: main
+  repo-url: "https://github.com/robbievz/rocket-democracy"
